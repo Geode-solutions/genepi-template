@@ -29,8 +29,6 @@
         "example": "node ./example.js"
     },
     "files": [
-        "/cmake",
-        "/include",
         "/src",
         "/CMakeLists.txt"
     ],

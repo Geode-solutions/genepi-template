@@ -29,7 +29,7 @@ jobs:
         versionSpec: "10.x"
     - script: |
         npm install
-        npm run examples
+        npm run example
       displayName: Compilation
    
 - template: semantic-release.yml@templates
