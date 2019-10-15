@@ -2,15 +2,16 @@
 <h3 align="center">Template for creating your Genepi addon</h3>
 
 <p align="center">
-  <img src="https://dev.azure.com/GeodeSolutions/Geode/_apis/build/status/Geode-solutions.genepi-template?branchName=master" alt="Build Status">
-  <img src="https://img.shields.io/github/release/Geode-solutions/Genepi-Template.svg" alt="Version">
+  <img src="https://github.com/Geode-solutions/genepi-template/workflows/CI/badge.svg" alt="Build Status">
+  <img src="https://img.shields.io/github/release/Geode-solutions/genepi-template.svg" alt="Version">
 </p>
 
 <p align="center">
-  <img src="https://dev.azure.com/GeodeSolutions/Geode/_apis/build/status/Geode-solutions.genepi-template?branchName=master&jobName=Test&configuration=Test%20Windows&label=Windows" alt="Windows Build Status">
-  <img src="https://dev.azure.com/GeodeSolutions/Geode/_apis/build/status/Geode-solutions.genepi-template?branchName=master&jobName=Test&configuration=Test%20Ubuntu&label=Linux" alt="Linux Build Status">
-  <img src="https://dev.azure.com/GeodeSolutions/Geode/_apis/build/status/Geode-solutions.genepi-template?branchName=master&jobName=Test&configuration=Test%20Mac&label=macOS" alt="Apple Build Status">
+  <img src="https://img.shields.io/static/v1?label=Windows&logo=windows&logoColor=white&message=support&color=success" alt="Windows support">
+  <img src="https://img.shields.io/static/v1?label=Linux&logo=linux&logoColor=white&message=support&color=success" alt="Linux support">
+  <img src="https://img.shields.io/static/v1?label=macOS&logo=apple&logoColor=white&message=support&color=success" alt="macOS support">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-11-blue.svg" alt="Language">
