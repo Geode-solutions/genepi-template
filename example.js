@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2019 Geode-solutions
+ * Copyright (c) 2019 - 2020 Geode-solutions
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -21,17 +21,17 @@
  *
  */
 
- var example = require('bindings')('genepi_template')
+var example = require('bindings')('genepi_template')
 
- example.sayHello('you');
- example.sayGoodbye('you');
- example.sayNamespacedHello('you');
+example.sayHello('you');
+example.sayGoodbye('you');
+example.sayNamespacedHello('you');
 
- var value1 = new example.Coord(123, 456);
- var value2 = example.ObjectExample.getValue();
- example.ObjectExample.showByValue(value1);
- example.ObjectExample.showByValue(value2);
- 
- var ref = example.ObjectExample.getRef();
- example.ObjectExample.showByRef(ref);
+var value1 = new example.Coord(123, 456);
+var value2 = example.ObjectExample.getValue();
+example.ObjectExample.showByValue(value1);
+example.ObjectExample.showByValue(value2);
+
+var ref = example.ObjectExample.getRef();
+example.ObjectExample.showByRef(ref);
 
