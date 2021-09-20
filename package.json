@@ -26,6 +26,7 @@
         "build": "cmake-js compile",
         "build:debug": "cmake-js compile -D",
         "install": "cmake-js compile",
+        "clean": "cmake-js clean",
         "example": "node ./example.js"
     },
     "files": [
