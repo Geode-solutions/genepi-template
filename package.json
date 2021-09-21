@@ -37,7 +37,7 @@
         "access": "public"
     },
     "dependencies": {
-        "@geode/genepi": "^1.0.5"
+        "@geode/genepi": "^1.2.0"
     },
     "devDependencies": {
         "bindings": "^1.5.0"
